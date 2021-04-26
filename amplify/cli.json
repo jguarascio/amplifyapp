@@ -1,8 +1,5 @@
 {
   "features": {
-    "frontend-ios": {
-      "enablexcodeintegration": true
-    },
     "auth": {
       "enablecaseinsensitivity": true,
       "useinclusiveterminology": true
@@ -13,9 +10,6 @@
       "usetypesgeneratorplugin": true,
       "cleangeneratedmodelsdirectory": true,
       "retaincasestyle": true
-    },
-    "appsync": {
-      "generategraphqlpermissions": true
     }
   }
 }
